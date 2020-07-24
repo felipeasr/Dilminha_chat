@@ -1,0 +1,32 @@
+﻿<aiml>
+
+  <category>
+    <pattern>REFERENCIA</pattern>
+    <template><p> Mendes, R. D. (1997). Inteligência artificial: sistemas especialistas no gerenciamento da informação. Ciência da Informação, 26(1).</p>
+<p>Furnival, A. C. (1995). Delineando as limitações: sistemas especialistas e conhecimento tácito. Ciência da Informação, 24(2).</p>
+
+Biondo, J. S. (1990). Fundamentals of Expert Systems Technology: Principles and Concepts
+
+Andrade, P. J. N. D. (1999). Sistemas especialistas de apoio ao diagnóstico em medicina. Relações com o teorema de Bayes e com a lógica do raciocínio diagnóstico. Arq Bras Cardiol, 73(6), 537-544.
+
+Oliveira, A. F. N. D. (2001). Uma metodologia de uso de técnicas de indução para criação de regras de sistemas especialistas.
+</template>
+  </category>
+
+ 
+  <category>
+    <pattern>REFERÊNCIAS</pattern>
+    <template><srai>REFERENCIA</srai></template>
+  </category>
+
+<category>
+    <pattern> QUE REFERENCIA VOCE TEM </pattern>
+    <template><srai>REFERENCIA</srai></template>
+  </category>
+
+<category>
+    <pattern>DE ONDE SAIU ESSAS INFORMAÇÃO</pattern>
+    <template><srai>REFERENCIA</srai></template>
+  </category>
+
+</aiml>

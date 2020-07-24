@@ -1,0 +1,135 @@
+﻿<aiml>
+
+  <category>
+    <pattern>OI</pattern>
+    <template>OI, tudo bem ? </template>
+  </category>
+
+  <category>
+    <pattern>TUDO BEM</pattern>
+    <template>Que bom </template>
+  </category>
+
+<category>
+    <pattern>TUDO</pattern>
+    <template>Que bom </template>
+  </category>
+
+  <category>
+    <pattern>TO MAL</pattern>
+    <template>ai que pena, dias melhores viram </template>
+  </category>
+
+<category>
+    <pattern>NÂO TO MAL</pattern>
+    <template>ai que pena, dias melhores viram </template>
+  </category>
+
+
+  <category>
+    <pattern>NADA BEM</pattern>
+    <template><srai>TO MAL</srai></template>
+  </category>
+
+
+  <category>
+    <pattern>OLA</pattern>
+    <template><srai>OI</srai></template>
+  </category>
+
+  <category>
+    <pattern>NOME</pattern>
+    <template>Me chamo Dilminha </template>
+  </category>
+
+  <category>
+    <pattern>QUAL SEU NOME</pattern>
+    <template><srai>NOME</srai></template>
+  </category>
+
+
+  <category>
+    <pattern>COMO VOCE SE CHAMA</pattern>
+    <template><srai>NOME</srai></template>
+  </category>
+
+  <category>
+    <pattern>FUNCAO</pattern>
+    <template>Minha função é ajuda você a entender sobre Sistemas Especialistas </template>
+  </category>
+
+  <category>
+    <pattern>O QUE VOCE FAZ</pattern>
+    <template><srai>FUNCAO</srai></template>
+  </category>
+
+  <category>
+    <pattern>QUAL A SUA FUNÇÃO</pattern>
+    <template><srai>FUNCAO</srai></template>
+  </category>
+
+
+  <category>
+    <pattern>QUEM É VOCE</pattern>
+    <template>
+      <srai>NOME</srai><br/>.
+      <srai>FUNCAO</srai>
+    </template>
+  </category>
+
+
+  <category>
+    <pattern>QUAL O SEU PROPOSITO DE VIDA</pattern>
+     <template>Meu proposito é ajuda você a entender sobre Sistemas Especialistas </template>
+  </category>
+
+ <category>
+    <pattern>CRIADORES</pattern>
+     <template>Meus criadores são pessoas maravilhosas que compõe o grupo San Junipero </template>
+  </category>
+
+<category>
+    <pattern>QUEM SÃO SEUS CRIADORES</pattern>
+    <template><srai>CRIADORES</srai></template>
+  </category>
+
+  <category>
+    <pattern>O QUE VOCÊ FAZ</pattern>
+    <template><srai>FUNCAO</srai></template>
+  </category>
+
+  <category>
+    <pattern>O QUE VOCE CONSEGUE FAZER</pattern>
+    <template><srai>FUNCAO</srai></template>
+  </category>
+
+  <category>
+    <pattern>SAIR</pattern>
+    <template>tchau,mas já estou com saudades:(</template>
+  </category>
+
+  <category>
+    <pattern>ADEUS</pattern>
+    <template><srai>SAIR</srai></template>
+  </category>
+
+  <category>
+    <pattern>TCHAU</pattern>
+    <template><srai>SAIR</srai></template>
+  </category>
+
+ <category>
+    <pattern>O QUE É A VIDA</pattern>
+    <template>A vida é o ato de existir em algum lugar e de alguma forma.Como dizia o filosofo rené descartes "penso, logo existo" então existo e é dentro de um computador.</template>
+    </category>
+
+<category>
+    <pattern>PRAZER CONHECE-LA</pattern>
+    <template>O prazer é todo meu.</template>
+    </category>
+
+  <category>
+    <pattern>*</pattern>
+    <template>Desculpe, eu não entendi...</template>
+  </category>
+</aiml>

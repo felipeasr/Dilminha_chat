@@ -1,0 +1,275 @@
+﻿<aiml>
+
+  <category>
+    <pattern>SISTEMA ESPECIALISTAS</pattern>
+    <template>Sistemas Especialistas são programas advindos da Inteligência Artificial que tem como objetivo simular o raciocínio de um profissional perito em algum determinado assunto </template>
+  </category>
+
+ <category>
+    <pattern>O QUE É SISTEMA ESPECIALISTAS</pattern>
+   <template>Sistemas Especialistas são programas advindos da Inteligência Artificial que tem como objetivo simular o raciocínio de um profissional perito em algum determinado assunto </template>
+  </category>
+
+<category>
+    <pattern>ME DIGA ALGO SOBRE SE</pattern>
+    <template>Sistemas Especialistas são programas advindos da Inteligência Artificial que tem como objetivo simular o raciocínio de um profissional perito em algum determinado assunto </template>
+  </category>
+
+<category>
+    <pattern>DENTRAL</pattern>
+    <template>O programa Dendral é considerado o primeiro Sistema Especialista por causa do seu modo automático de tomar decisões e resolver problemas relativos à química orgânica que começou a ser desenvolvido em 1965, na Universidade de Stanford.</template>
+  </category>
+
+<category>
+    <pattern>QUANDO NÃO É ADEQUADO USAR UM SISTEMA ESPECIALISTA</pattern>
+    <template>Quando não existir peritos que dominem o segmento de determinado conhecimento que encerra o problema, pois é exatamente esse conhecimento que será o responsável direto pela resolução do problema. Também quando houver a existência de tarefas que, para serem realizadas, necessitam da participação de vários especialistas que, isolados, não possuem conhecimentos suficientes para realizá-la.</template>
+  </category>
+
+<category>
+    <pattern>O QUE É DENTRAL</pattern>
+    <template><srai>DENTRAL?</srai></template>
+  </category>
+
+<category>
+    <pattern>ME FALE SOBRE DENTRAL</pattern>
+    <template><srai>DENTRAL</srai></template>
+  </category>
+
+<category>
+    <pattern>BASE CONHECIMENTO</pattern>
+    <template>A base de conhecimento é uma coleção de informações, base de regras, fatos e heurísticas que correspondem ao conhecimento do especialista, ou dos especialistas do domínio sobre o qual foi construído o sistema.</template>
+  </category>
+
+<category>
+    <pattern>O QUE É BASE DE CONHECIMENTO</pattern>
+    <template><srai>BASE CONHECIMENTO</srai></template>
+  </category>
+
+
+<category>
+    <pattern>ESTRUTURA</pattern>
+    <template>A estrutura básica para um sistema especialista é constituída por três elementos fundamentais: base de conhecimento, motor de inferência e interface com o usuário</template>
+  </category>
+
+<category>
+    <pattern>QUAL ESTRUTURA DE UM SISTEMA ESPECIALISTA</pattern>
+    <template><srai>ESTRUTURA</srai></template>
+  </category>
+
+<category>
+    <pattern>ESTRUTURA BASICA </pattern>
+    <template><srai>ESTRUTURA</srai></template>
+  </category>
+
+<category>
+    <pattern>ME DÊ EXEMPLO DE SISTEMA ESPECIALISTA</pattern>
+    <template>
+            <random>
+                <li>Nos dias atuais os sistemas especialistas tornaram-se realidade, sob a forma de sistemas interativos que respondem questões, solicitam e fornecem esclarecimentos, fazem recomendações, e geralmente auxiliam o usuário orientando-o no processo de tomada de decisão. Assim, usuários e sistema caminham juntos, perguntando e fornecendo informações um ao outro, até à completa solução do problema analisado.</li>
+                <li>Podemos usar como exemplo de sistema especialista o XCON, eXpert CONfigurer, que foi desenvolvido em OPS5 e era utilizado para configurar sistemas de computadores.</li>                
+            </random>
+        </template>
+    </category>
+
+
+
+  <category>
+    <pattern>ME FALE  SOBRE RACIOCÍNIO DIAGNOSTICO</pattern>
+    <template>1) o raciocínio fisiopatológico;
+2) o raciocínio por reconhecimento de padrões;
+3) o raciocínio probabilístico; </template>
+  </category>
+
+ <category>
+    <pattern>QUAIS FERRAMENTAS SÃO UTILIZADAS PARA CONSTRUÇÃO DE SISTEMA ESPECIALISTAS</pattern>
+    <template>LISP: Usada principalmente pela comunidade científica americana de pesquisas em inteligência artificial e o 
+     PROLOG: Usada principalmente pela comunidade científica européia,e é uma linguagem apoiada em pricipios da matematica</template>
+  </category>
+
+<category>
+    <pattern>VANTAGENS</pattern>
+    <template>Um sistema especialista é capaz de estender as facilidades de tomada de decisão para muitas pessoas. O conhecimento dos especialistas pode ser distribuído, de forma que possa ser utilizado por um grande número de pessoas</template>
+</category>
+
+ <category>
+    <pattern>QUAIS AS VANTAGENS DE UTILIZAR SE</pattern>
+    <template>
+            <random>
+                <li>Um sistema especialista é capaz de estender as facilidades de tomada de decisão para muitas pessoas. O conhecimento dos especialistas pode ser distribuído, de forma que possa ser utilizado por um grande número de pessoas;</li>
+                <li>Um sistema especialista pode melhorar a produtividade e desempenho de seus usuários, considerando que o provê com um vasto conhecimento, que, certamente, em condições normais, demandaria mais tempo para assimilá-lo e, consequentemente, utilizá-lo em suas tomadas de decisão</li>
+                <li>Sistemas especialistas reduzem o grau de dependência que as organizações mantêm quando se vêem em situações críticas, inevitáveis, como, por exemplo, a falta de um especialista. As pessoas morrem, ficam doentes, tiram férias e até optam por melhores ofertas de trabalhos; ao assim proceder, tornam as organizações em que trabalham vulneráveis e extremamente dependentes de suas decisões. Ao registrar o conhecimento de empregados nos sistemas especialistas, promove-se uma significativa redução no grau de dependência entre empresa e presença física do empregado</li>
+                <li>Sistemas especialistas são ferramentas adequadas para serem utilizadas em treinamentos de grupos de pessoas, de forma rápida e agradável, podendo servir, após o treinamento, como instrumento para coleta de informações sobre o desempenho dos treinandos, obtendo subsídios para reformulação das lições para a obtenção de melhor desempenho, além de prestar suporte imediato para os treinamentos durante a utilização dos conhecimentos na realização de suas tarefas diárias.</li>
+                <li>Um sistema especialista é capaz de estender as facilidades de tomada de decisão para muitas pessoas. O conhecimento dos especialistas pode ser distribuído, de forma que possa ser utilizado por um grande número de pessoas;</li>
+                
+            </random>
+        </template>
+    </category>
+<category>
+    <pattern>AGENTES</pattern>
+    <template>Em IA, costuma-se definir como Agentes as diversas entidades que participam do processo de execução do programa. Normalmente, cada agente é um bloco de código independente no programa, embora também costumem ser considerados agentes os usuários, máquinas e computadores agregados ao programa.</template>
+</category>
+
+<category>
+    <pattern>ME FALE SOBRE AGENTES</pattern>
+    <template><srai>AGENTES</srai></template>
+  </category>
+
+<category>
+    <pattern>OBJETIVO</pattern>
+    <template>O objetivo do sistema especialista é reproduzir o comportamento de especialistas humanos na resolução de problemas do mundo real.</template>
+ </category>
+
+
+<category>
+    <pattern>PRA QUE SÃO UTILIZADOS OS SE</pattern>
+    <template><srai>OBJETIVO</srai></template>
+  </category>
+
+<category>
+    <pattern>QUAL OBJETIVO DE SE</pattern>
+    <template><srai>OBJETIVO</srai></template>
+  </category>
+
+<category>
+    <pattern>PRA QUE SERVEM OS SE</pattern>
+    <template><srai>OBJETIVO</srai></template>
+  </category>
+<category>
+    <pattern>MOTOR REGRESSIVO</pattern>
+    <template>No modelo de raciocínio regressivo, os procedimentos de inferência dão-se de forma inversa. O sistema parte de uma opinião conclusiva sobre o assunto, podendo ser inclusive oriunda do próprio usuário, e inicia uma pesquisa pelas informações por meio das regras e fatos da base de conhecimento, procurando provar se aquela conclusão é a mais adequada solução para o problema analisado.</template>
+ </category>
+
+<category>
+    <pattern>ME FALE SOBRE MOTOR REGRESSIVO</pattern>
+    <template><srai>MOTOR REGRESSIVO</srai></template>
+  </category>
+
+<category>
+    <pattern>PROGRESSIVO</pattern>
+    <template>
+Na forma de raciocínio progressivo, as informações são fornecidas ao sistema pelo usuário, que com suas respostas, estimulam o desencadeamento do processo de busca, navegando através da base de conhecimento, procurando pelos fatos, regras e heurísticas que melhor se aplicam a cada situação. O sistema continua nesta interação com o usuário, até encontrar a solução para o problema a ele submetido.
+    </template>
+ </category>
+
+<category>
+    <pattern>ME FALE SOBRE MOTOR PROGRESSIVO</pattern>
+    <template><srai>PROGRESSIVO</srai></template>
+  </category>
+
+<category>
+    <pattern>ME FALE SOBRE RACIOÍNIO PROGRESSIVO</pattern>
+    <template><srai>PROGRESSIVO</srai></template>
+  </category>
+
+
+<category>
+    <pattern>O QUE É INTERFACE USUÁRIO </pattern>
+    <template>
+            <random>
+                <li>A interface é o meio pelo qual o usuário irá se comunicar com o sistema especialista, portanto é necessário que a interface seja bastante flexível. A interação entre sistema especialista e usuário conduz um processo de navegação, eficiente, na base de conhecimento, durante o processamento das heurísticas.</li>
+                <li>A interface com o usuário flexível permite que o usuário descreva o problema ou os objetivos que deseja alcançar. Permite, ainda, que usuário e sistema adotem um modelo estruturado de consultas.
+Isto facilita o processo de recuperação do caminho percorrido pelo sistema em tentativas de solucionar o problema. Este caminho, denominado trace, é muito importante pois é a base de pesquisa para o desenvolvimento do processo de explanação.</li>                
+            </random>
+        </template>
+    </category>
+
+
+<category>
+    <pattern>O QUE É EXPLANAÇÃO</pattern>
+    <template>
+<p>O processo de explanação consiste na explicação, quando requerida pelo usuário, sobre o "porquê" e o "como" que o sistema chegou a determinada conclusão, rumo à solução do problema analisado. Neste momento, o sistema realiza um processo inverso de busca, percorrendo as trilhas utilizadas e marcadas durante a sessão de consulta e apresentando todos os argumentos que o levaram à solução apresentada.</p>
+
+Este processo é muito importante e proporciona ao usuário subsídios para julgar se adota ou não a solução apresentada pelo sistema especialista.
+    </template>
+ </category>
+
+
+<category>
+    <pattern>O QUE É INTERFACE USUÁRIO </pattern>
+    <template>
+            <random>
+                <li>SEs contêm conhecimento obtido de especialistas para ajudar no processo de tomada de decisões em situações de problemas não-estruturados, já os programas convencionais não pretendem emular especialistas;</li>
+                <li>SE usam redes semânticas, lógica, frames, regras de produção, etc. para representar conhecimento, fazendo com que uma análise e alteração da base de conhecimento seja relativamente fácil, enquanto programas convencionais só podem manipular dados alfanuméricos;</li>
+                <li>SEs geralmente tentam gerar a “melhor” solução, por meio de heurísticas que exploram as alternativas, enquanto os algoritmos de programas convencionais pré determinam um único caminho de solução;</li>
+                <li>alguns SEs conseguem trabalhar com incerteza ou com informação incompleta;</li>                
+            </random>
+        </template>
+    </category>
+
+<category>
+    <pattern>ME FALE SOBRE HEURÍSTICA</pattern>
+    <template>
+O número de soluções para um problema nos sistemas especialistas pode ser astronômico. Sendo assim, a heurística é utilizada como uma alternativa à busca direta. As buscas do tipo best-first (melhor primeiro) são geralmente as mais utilizadas para esses sistemas, que estão cheios de incerteza.
+    </template>
+ </category>
+
+<category>
+    <pattern>DIFICULDADES DO SE</pattern>
+    <template>
+Necessidade do sistema especialista entender “linguagem natural”.
+O trabalho árduo de captar conhecimento especializado já que os especialistas têm grande dificuldade em isolar e descrever os passos que seguem para resolver um dado problema, pois não estruturam seus processos de tomada de decisão.
+    </template>
+ </category>
+
+
+<category>
+    <pattern>ME FALE MAIS SOBRE AS DIFICULDADES DO SE</pattern>
+    <template>
+Profissionais ainda tem dificuldades em aceitar “conselhos” de máquinas. 
+Sua assertividade depende de uma base de conhecimento de boa qualidade;
+É muito trabalhoso implementar SEs que lidem com questões muito complexas.
+    </template>
+ </category>
+
+
+<category>
+    <pattern>REGRAS BASE</pattern>
+    <template>Os SEs baseados em regras possuem o seu conhecimento catalogado na forma de condições do tipo “if” e “then”, utilizadas em forma de cadeia com o objetivo de atingir uma conclusão. Também usam de conectivos (não, e, ou) sendo sua função unir a sentença ao conjunto de premissas, e operadores para realizar comparação entre atributos.
+    Este tipo de programa permite o uso das árvores de decisão, muito freqüentes na medicina moderna. Um exemplo bastante conhecido é o sistema Mycin, desenvolvido na Universidade de Stanford para a seleção de antibióticos em pacientes com infecção severa.
+    </template>
+ </category>
+
+<category>
+    <pattern>O QUE É SISTEMA ESPECIALISTAS BASEADO EM REGRAS</pattern>
+    <template><srai>REGRAS BASE</srai></template>
+  </category>
+
+<category>
+    <pattern>COMO SÃO FEITAS AS REGRAS</pattern>
+    <template><srai>REGRAS BASE</srai></template>
+  </category>
+
+
+<category>
+    <pattern>COMO SÃO CONTRUIDAS AS REGRAS</pattern>
+    <template><srai>REGRAS BASE</srai></template>
+  </category>
+
+
+<category>
+    <pattern>EXEMPLO DE SISTEMA ESPECIALISTAS </pattern>
+    <template>
+            <random>
+                <li>Administração: FOLIO ajuda administradores a determinar metas de investimentos de clientes e selecionar portfólios;</li>
+                <li>Advocacia: JUDITH ajuda advogados a argumentar a respeito de casos de lei civil;</li>
+                <li>Agricultura: POMME ajuda no trato de macieiras;</li>
+                <li>Computação: XCON configura sistemas computacionais para clientes;</li>                
+            </random>
+        </template>
+    </category>
+
+<category>
+    <pattern>MAIS EXEMPLOS DE SISTEMA ESPECIALISTAS </pattern>
+    <template>
+            <random>
+                <li>Eletrônica: SOPHIE ensina estudantes a respeito de circuitos elétricos;</li>
+                <li>Engenharia: REACTOR assiste operadores de reatores no diagnóstico e tratamento de acidentes nucleares;</li>
+                <li>Física: GAMMA ajuda físicos nucleares a identificar composição de substâncias desconhecidas;</li>
+                <li>Medicina: MYCIN ajuda no diagnóstico e tratamento de doenças infecciosas e ONCOCIN ajuda no tratamento de pacientes com câncer.</li>                
+            </random>
+        </template>
+    </category>
+
+
+</aiml>
+
